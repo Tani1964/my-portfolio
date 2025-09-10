@@ -1,4 +1,4 @@
-import { AnimatePresence, motion } from 'motion/react';
+import { AnimatePresence, motion } from "framer-motion";
 import React, { useState } from 'react';
 
 interface GamesSectionProps {

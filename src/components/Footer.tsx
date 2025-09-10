@@ -13,11 +13,11 @@ export default function Footer() {
         </div>
 
         {/* Center: Links */}
-        <nav className="flex gap-8 text-sm">
+        {/* <nav className="flex gap-8 text-sm">
           <a href="#about" className="hover:text-white transition-colors">About</a>
           <a href="#projects" className="hover:text-white transition-colors">Projects</a>
           <a href="#contact" className="hover:text-white transition-colors">Contact</a>
-        </nav>
+        </nav> */}
 
         {/* Right: Social Icons */}
         <div className="flex gap-8">

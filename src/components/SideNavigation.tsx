@@ -172,7 +172,7 @@ export function SideNavigation({
               <div className="relative">
                 <div className={`w-8 h-8 rounded-full overflow-hidden border-2 ${themeStyles.profileBorder}`}>
                   <ImageWithFallback
-                    src="../../public/img/small.jpeg"
+                    src="/img/small.jpeg"
                     alt="Tanitoluwa Samuel Ifegbesan"
                     className="w-full h-full object-cover"
                   />

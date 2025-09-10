@@ -22,7 +22,7 @@ export default function Footer() {
         {/* Right: Social Icons */}
         <div className="flex gap-8">
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/Tani1964"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
@@ -30,7 +30,7 @@ export default function Footer() {
             <Github className="w-5 h-5" />
           </a>
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://linkedin.com/in/tanitoluwa-ifegbesan-3614b6234"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
@@ -38,7 +38,7 @@ export default function Footer() {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:tanitoluwa.ifegbesan@example.com"
             className="hover:text-white transition-colors"
           >
             <Mail className="w-5 h-5" />

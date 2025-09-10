@@ -1,6 +1,7 @@
-import { motion } from 'motion/react';
+import { motion } from "framer-motion";
 import React, { useEffect, useRef } from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+;
 
 export function HeroSection() {
   const canvasRef = useRef<HTMLCanvasElement>(null);

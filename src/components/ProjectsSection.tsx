@@ -1,6 +1,7 @@
+import { motion } from "framer-motion";
 import React, { useState } from 'react';
-import { motion } from 'motion/react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+;
 
 export function ProjectsSection() {
   const [selectedProject, setSelectedProject] = useState(0);

@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
+import React, { useEffect, useRef, useState } from "react";
 
 interface Command {
   input: string;
